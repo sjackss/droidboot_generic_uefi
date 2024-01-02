@@ -399,3 +399,6 @@ extern "C" {
 #endif
 
 #endif /*LV_CONF_KCONFIG_H*/
+{**/*.html,**/*.txt}
+host LV_THEME_DEFAULT_INIT
+
